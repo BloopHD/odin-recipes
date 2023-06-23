@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 2.5%;
+}
+
+ul, ol {
+
+    list-style: none;
+    padding-left: 0;
+}
