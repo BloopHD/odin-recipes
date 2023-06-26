@@ -1,14 +1,26 @@
-* {
+h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
 
-h2 {
-    margin-top: 2.5%;
+.image {
+    text-align: center;
+} 
+
+img {
+    width: 75%;
+    height: auto;
 }
 
-ul, ol {
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
 
-    list-style: none;
-    padding-left: 0;
+.right {
+    margin-top: 100px;
+}
+
+h2 {
+    margin-top: 2.5%;
 }
